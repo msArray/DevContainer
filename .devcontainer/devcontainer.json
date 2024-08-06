@@ -10,7 +10,6 @@
       "version": "latest"
     },
   },
-  "postCreateCommand": "npm install -g bun && apt-get update && apt-get install -y curl && curl --proto '=https' --tlsv1.2 -sSf https://bun.sh/install | bash",
   "customizations": {
     "vscode": {
       "extensions": [
